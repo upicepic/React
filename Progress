@@ -1,2 +1,9 @@
 #Day 1: 10/10/2026
 I want to learn react, I am following Akshay saini's namastedev course.
+
+* Created a Hello world programming using HTML, with Javascript, with React
+* CDN React Links
+* using React.createElement, createRoot passing attributes, nested children as an array
+* React.createElement creates a react element which is an object
+* This object will be converted into a HTML element using render 
+* React is a Javascript Library that can be used to apply on a small div to scaling a large app.
